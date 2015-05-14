@@ -1,0 +1,91 @@
+TDownloadTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch
+t2
+s0
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch
+c00000000555358C70000000000000158
+t1431525575
+s344
+
+CBuild AST from /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1cb225699703bb41^bc3d3c699703bb41^---0#1#1#--18"Check dependencies36"7614E8F7-1BDB-4E1C-BD7A-87A53DD98BA1-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings DownloadTest/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest
+r0
+
+CLd /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest normal i386
+r0
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist
+r0
+
+CProcessPCH /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453220201.232527
+e453220207.611857
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch
+xDownloadTest/DownloadTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile DownloadTest/DownloadTest-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler57b23b699703bb41^d192a36f9703bb41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch0000000000000000^3655"ProcessPCH Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DownloadTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-generated-files.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-project-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources -F/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.d -c /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch -o /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch36"31E57E86-0CD6-4ACD-AB30-F9FB02A51863-
+bCB7574B9-52B9-4E5B-B4FA-11EFFBEC34ED
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/DownloadTest-glomuzkmnwrvrhetskftglnxtedn/Index/PrecompiledHeaders/DownloadTest-Prefix-fehodwdaqezvfrdvhhgqreizlwjf_ast/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app
+r0
+

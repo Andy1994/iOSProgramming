@@ -1,0 +1,684 @@
+TDownloadTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings DownloadTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest
+cTouch /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000054DBA804000000000058E0E0
+t1423681540
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000054DBA80500000000005B82F0
+t1423681541
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000054DBA80600000000003599D0
+t1423681542
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000054DBA80800000000002FC3B0
+t1423681544
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000054DBA807000000000004B000
+t1423681543
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000054DBA80F0000000000037680
+t1423681551
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000054DBA811000000000048F720
+t1423681553
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000054DBA811000000000013FD70
+t1423681553
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000054DBA84500000000002BC360
+t1423681605
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000054DBA85D0000000000002338
+t1423681629
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000054DBA860000000000008D370
+t1423681632
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000054DBA8600000000000392E20
+t1423681632
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000054DB870900000000000141F0
+t1423673097
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000054DBA8610000000000014A80
+t1423681633
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000054DBA8610000000000033BA0
+t1423681633
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000054DBA861000000000001CFB0
+t1423681633
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000054DBA861000000000001B2B0
+t1423681633
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000054DBA86100000000000C9570
+t1423681633
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000054DBA8610000000000063280
+t1423681633
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000054DBA8610000000000008880
+t1423681633
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000054DBA8610000000000015080
+t1423681633
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000054DBA86100000000000230F0
+t1423681633
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000054DBA861000000000000E380
+t1423681633
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000054DBA8610000000000089380
+t1423681633
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000054DBA8610000000000017320
+t1423681633
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000054DBA8610000000000039CD0
+t1423681633
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000054DBA861000000000000B0B0
+t1423681633
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000054DBA8620000000000167E80
+t1423681634
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000054DBA86100000000000106A0
+t1423681633
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000054DBA861000000000001CE40
+t1423681633
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000054DBA86100000000000740C0
+t1423681633
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000054DBA861000000000006CA60
+t1423681633
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000054DBA861000000000001BAD0
+t1423681633
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000054DBA8610000000000084A20
+t1423681633
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000054DBA8BD000000000000514C
+t1423681725
+s20812
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o
+t1431527415
+s62384
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/DownloadTest.LinkFileList
+c0000000055535FE900000000000001C4
+t1431527401
+s452
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o
+t1431527704
+s43768
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o
+t1431527415
+s3544
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_dependencies.txt
+t1431527424
+s391
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_generated_info.plist
+t1431527424
+s525
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch
+t1431527407
+s122156
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app
+t1431527704
+s306
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM
+t1431527705
+s102
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Base.lproj/Main.storyboardc
+t1431527514
+s170
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest
+t1431527704
+s21968
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist
+t1431527424
+s1025
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/PkgInfo
+t1431527424
+s8
+
+N/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings
+t1431527417
+s42
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.h
+c00000000555358C70000000000000119
+t1431525575
+s281
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m
+c00000000555358C700000000000007DB
+t1431525575
+s2011
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard
+c000000005553605A0000000000000A37
+t1431527514
+s2615
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist
+c00000000555358C700000000000004C6
+t1431525575
+s1222
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch
+c00000000555358C70000000000000158
+t1431525575
+s344
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets
+c00000000555358C70000000000000088
+t1431525575
+s136
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.h
+c00000000555358C700000000000000DB
+t1431525575
+s219
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m
+c00000000555361030000000000000417
+t1431527683
+s1047
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/en.lproj/InfoPlist.strings
+c00000000555358C7000000000000002D
+t1431525575
+s45
+
+N/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m
+c00000000555358C70000000000000155
+t1431525575
+s341
+
+N/usr/lib/libSystem.B.dylib
+c0000000054DB86F0000000000000E6D0
+t1423673072
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000054DB87090000000000012A00
+t1423673097
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000054DB86D8000000000002E320
+t1423673048
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000054DB86F00000000000021860
+t1423673072
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000054DB8707000000000001B620
+t1423673095
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000054DB870700000000000BD920
+t1423673095
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000054DB8708000000000000A120
+t1423673096
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000054DB8708000000000001D550
+t1423673096
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000054DB87070000000000014EE0
+t1423673095
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000054DB870B0000000000010380
+t1423673099
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000054DB870B000000000000C4C0
+t1423673099
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000054DB870900000000000357A0
+t1423673097
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000054DB8709000000000000C070
+t1423673097
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000054DB86F00000000000168D00
+t1423673072
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000054DB87070000000000010630
+t1423673095
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000054DB870A000000000001DF10
+t1423673098
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000054DB86F00000000000075B00
+t1423673072
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000054DB86F0000000000007CD60
+t1423673072
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000054DB86F000000000000766C0
+t1423673072
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000054DB87090000000000044DC0
+t1423673097
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000054DB86F00000000000021FA0
+t1423673072
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000054DB8709000000000002D920
+t1423673097
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000054DB8709000000000001E570
+t1423673097
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000054DB86FA000000000000CC70
+t1423673082
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000054DB86FF000000000000C3F0
+t1423673087
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000054DB870900000000000199F0
+t1423673097
+s104944
+
+CBuild AST from /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies145af2d19803bb41^4949f3d19803bb41^---0#1#1#--18"Check dependencies36"A0BEA89E-F232-4AC9-B4F0-B1095B4766C0-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets
+s453220217.900878
+e453220224.438782
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app
+x/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Assets.car
+o/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/DownloadTest.app DownloadTest/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/DownloadTest.app DownloadTest/Images.xcassets5fd0e6799703bb41^868f70809703bb41^-419"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Assets.car/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@74"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets/0000000000000000^1173"CompileAssetCatalog Build/Products/Debug-iphonesimulator/DownloadTest.app DownloadTest/Images.xcassets    cd /Users/wangwenbo/Desktop/DownloadTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Images.xcassets36"5232BAFA-AB37-49FB-8A43-F12BACF8F082-
+bA7E44D5D-4F3F-4D10-9EAA-2BEB16680F73
+
+CCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453220212.578077
+e453220215.643477
+r1
+xCompileC
+xBuild/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m217"CompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o DownloadTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler061294749703bb41^69e3a4779703bb41^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m0000000000000000^3781"CompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o DownloadTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DownloadTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-generated-files.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-project-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources -F/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.m -o /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o36"45204F04-5169-4B83-AFE3-1686EE9B883C-
+bA7E44D5D-4F3F-4D10-9EAA-2BEB16680F73
+
+CCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453220504.726416
+e453220504.897253
+r1
+xCompileC
+xBuild/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o
+x/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m223"CompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o DownloadTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9339ba989803bb41^a7b1e5989803bb41^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m0000000000000000^3799"CompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o DownloadTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DownloadTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-generated-files.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-project-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources -F/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.dia -c /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/ViewController.m -o /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o36"80E86903-82B3-4CDE-9C02-74FFFF08F1C2-
+b5D25BD6D-3EE4-4486-9281-12F56A8DD3A1
+
+CCompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453220215.615305
+e453220215.691167
+r1
+xCompileC
+xBuild/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m203"CompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o DownloadTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ab79d779703bb41^77f3b0779703bb41^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m0000000000000000^3739"CompileC Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o DownloadTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DownloadTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-generated-files.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-project-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources -F/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/main.m -o /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o36"8AFD6F60-8D72-4E49-A475-6418AF47B5C9-
+bA7E44D5D-4F3F-4D10-9EAA-2BEB16680F73
+
+CCompileStoryboard /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard
+s453220314.856291
+e453220314.968337
+r1
+xCompileStoryboard
+x/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard DownloadTest/Base.lproj/Main.storyboard57"CompileStoryboard DownloadTest/Base.lproj/Main.storyboardcb4adbda9703bb41^7907f8da9703bb41^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard0000000000000000^851"CompileStoryboard DownloadTest/Base.lproj/Main.storyboard    cd /Users/wangwenbo/Desktop/DownloadTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Base.lproj/Main.storyboardc /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/Base.lproj/Main.storyboard36"7A06EB92-FF0A-4C17-9920-173D783A1FF0-
+bB508B5E5-F386-4C59-B487-DEAAF456D7B6
+
+CCopyStringsFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings DownloadTest/en.lproj/InfoPlist.strings
+s453220217.684640
+e453220217.900360
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings
+xDownloadTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy DownloadTest/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings DownloadTest/en.lproj/InfoPlist.strings9067af799703bb41^0893e6799703bb41^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/en.lproj/InfoPlist.strings0000000000000000^611"CopyStringsFile Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj/InfoPlist.strings DownloadTest/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/DownloadTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/en.lproj -- DownloadTest/en.lproj/InfoPlist.strings36"CB748F8E-4CB0-483D-A9B4-6E2AF4605835-
+bA7E44D5D-4F3F-4D10-9EAA-2BEB16680F73
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest
+s453220504.993564
+e453220505.040685
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Generate /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest226efe989803bb41^096c0a999803bb41^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM/0000000000000000^688"GenerateDSYMFile Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest    cd /Users/wangwenbo/Desktop/DownloadTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest -o /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app.dSYM36"728747BD-DE6E-44AF-9105-87FBCC03879B-
+b5D25BD6D-3EE4-4486-9281-12F56A8DD3A1
+
+CLd /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest normal i386
+s453220504.899610
+e453220504.990794
+r1
+xLd
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/DownloadTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/ViewController.o
+d/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/AppDelegate.o
+d/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest81"Ld Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest normal i386a164e6989803bb41^e7a6fd989803bb41^---0#0#1#--1433"Ld Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest normal i386    cd /Users/wangwenbo/Desktop/DownloadTest    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/DownloadTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/Objects-normal/i386/DownloadTest_dependency_info.dat -o /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/DownloadTest36"FFE0BF6C-04B1-449C-A0F0-3B249A721AD3-
+b5D25BD6D-3EE4-4486-9281-12F56A8DD3A1
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist
+s453220224.439789
+e453220224.442632
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist
+x/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist DownloadTest/DownloadTest-Info.plist1aa870809703bb41^835171809703bb41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist0000000000000000^922"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist DownloadTest/DownloadTest-Info.plist    cd /Users/wangwenbo/Desktop/DownloadTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Info.plist -genpkginfo /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app/Info.plist36"2489EF23-3FCA-4DD1-B5E9-1E599EEC224B-
+bA7E44D5D-4F3F-4D10-9EAA-2BEB16680F73
+
+CProcessPCH /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453220201.232527
+e453220207.611857
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch
+xDownloadTest/DownloadTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile DownloadTest/DownloadTest-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler57b23b699703bb41^d192a36f9703bb41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch0000000000000000^3655"ProcessPCH Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DownloadTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-generated-files.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DownloadTest-project-headers.hmap -I/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/DownloadTest.build/Debug-iphonesimulator/DownloadTest.build/DerivedSources -F/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.d -c /Users/wangwenbo/Desktop/DownloadTest/DownloadTest/DownloadTest-Prefix.pch -o /Users/wangwenbo/Desktop/DownloadTest/Build/Intermediates/PrecompiledHeaders/DownloadTest-Prefix-gragfxbkrkchmihbhkjkaxiqmhvu/DownloadTest-Prefix.pch.pch36"31E57E86-0CD6-4ACD-AB30-F9FB02A51863-
+bCB7574B9-52B9-4E5B-B4FA-11EFFBEC34ED
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/DownloadTest-glomuzkmnwrvrhetskftglnxtedn/Index/PrecompiledHeaders/DownloadTest-Prefix-fehodwdaqezvfrdvhhgqreizlwjf_ast/DownloadTest-Prefix.pch.pch DownloadTest/DownloadTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app
+s453220314.972906
+e453220314.986631
+r1
+xTouch
+x/Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app59"Touch Build/Products/Debug-iphonesimulator/DownloadTest.app9929f9da9703bb41^b2d501db9703bb41^---0#0#1#--414"Touch Build/Products/Debug-iphonesimulator/DownloadTest.app    cd /Users/wangwenbo/Desktop/DownloadTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wangwenbo/Desktop/DownloadTest/Build/Products/Debug-iphonesimulator/DownloadTest.app36"31EA4EAA-2259-4AAA-A980-1C165A4804E3-
+bB508B5E5-F386-4C59-B487-DEAAF456D7B6
+
