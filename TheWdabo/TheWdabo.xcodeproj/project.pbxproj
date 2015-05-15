@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0D1D396B1AF9F3E400C3B6A0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1D396A1AF9F3E400C3B6A0 /* Foundation.framework */; };
+		0D1D396D1AF9F3E400C3B6A0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1D396C1AF9F3E400C3B6A0 /* CoreGraphics.framework */; };
+		0D1D396F1AF9F3E400C3B6A0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1D396E1AF9F3E400C3B6A0 /* UIKit.framework */; };
+		0D1D39751AF9F3E400C3B6A0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0D1D39731AF9F3E400C3B6A0 /* InfoPlist.strings */; };
+		0D1D39771AF9F3E400C3B6A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39761AF9F3E400C3B6A0 /* main.m */; };
+		0D1D397B1AF9F3E400C3B6A0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D397A1AF9F3E400C3B6A0 /* AppDelegate.m */; };
+		0D1D397E1AF9F3E400C3B6A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D1D397C1AF9F3E400C3B6A0 /* Main.storyboard */; };
+		0D1D39831AF9F3E400C3B6A0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D1D39821AF9F3E400C3B6A0 /* Images.xcassets */; };
+		0D1D398A1AF9F3E400C3B6A0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1D39891AF9F3E400C3B6A0 /* XCTest.framework */; };
+		0D1D398B1AF9F3E400C3B6A0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1D396A1AF9F3E400C3B6A0 /* Foundation.framework */; };
+		0D1D398C1AF9F3E400C3B6A0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1D396E1AF9F3E400C3B6A0 /* UIKit.framework */; };
+		0D1D39941AF9F3E400C3B6A0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0D1D39921AF9F3E400C3B6A0 /* InfoPlist.strings */; };
+		0D1D39961AF9F3E400C3B6A0 /* TheWdaboTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39951AF9F3E400C3B6A0 /* TheWdaboTests.m */; };
+		0D1D39A11AF9F4D200C3B6A0 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39A01AF9F4D200C3B6A0 /* LoginViewController.m */; };
+		0D1D39A51AFB2BED00C3B6A0 /* Paper.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D1D39A41AFB2BED00C3B6A0 /* Paper.xib */; };
+		0D1D39AB1AFB2D4E00C3B6A0 /* PaperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39AA1AFB2D4E00C3B6A0 /* PaperViewController.m */; };
+		0D1D39B11AFB8BF000C3B6A0 /* PaperDetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39B01AFB8BF000C3B6A0 /* PaperDetailView.m */; };
+		0D1D39B41AFC951700C3B6A0 /* PaperDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39B31AFC951700C3B6A0 /* PaperDetailViewController.m */; };
+		0D1D39B71AFF9C8C00C3B6A0 /* WritePaperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39B61AFF9C8C00C3B6A0 /* WritePaperViewController.m */; };
+		0D1D39BA1B02356E00C3B6A0 /* MyPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1D39B91B02356E00C3B6A0 /* MyPageViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0D1D398D1AF9F3E400C3B6A0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0D1D395F1AF9F3E400C3B6A0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0D1D39661AF9F3E400C3B6A0;
+			remoteInfo = TheWdabo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0D1D39671AF9F3E400C3B6A0 /* TheWdabo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheWdabo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D1D396A1AF9F3E400C3B6A0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0D1D396C1AF9F3E400C3B6A0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0D1D396E1AF9F3E400C3B6A0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0D1D39721AF9F3E400C3B6A0 /* TheWdabo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TheWdabo-Info.plist"; sourceTree = "<group>"; };
+		0D1D39741AF9F3E400C3B6A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0D1D39761AF9F3E400C3B6A0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0D1D39781AF9F3E400C3B6A0 /* TheWdabo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TheWdabo-Prefix.pch"; sourceTree = "<group>"; };
+		0D1D39791AF9F3E400C3B6A0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0D1D397A1AF9F3E400C3B6A0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0D1D397D1AF9F3E400C3B6A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0D1D39821AF9F3E400C3B6A0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0D1D39881AF9F3E400C3B6A0 /* TheWdaboTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheWdaboTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D1D39891AF9F3E400C3B6A0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		0D1D39911AF9F3E400C3B6A0 /* TheWdaboTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TheWdaboTests-Info.plist"; sourceTree = "<group>"; };
+		0D1D39931AF9F3E400C3B6A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0D1D39951AF9F3E400C3B6A0 /* TheWdaboTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheWdaboTests.m; sourceTree = "<group>"; };
+		0D1D399F1AF9F4D200C3B6A0 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		0D1D39A01AF9F4D200C3B6A0 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		0D1D39A41AFB2BED00C3B6A0 /* Paper.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = Paper.xib; path = ../Paper.xib; sourceTree = "<group>"; };
+		0D1D39A91AFB2D4E00C3B6A0 /* PaperViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaperViewController.h; sourceTree = "<group>"; };
+		0D1D39AA1AFB2D4E00C3B6A0 /* PaperViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaperViewController.m; sourceTree = "<group>"; };
+		0D1D39AF1AFB8BF000C3B6A0 /* PaperDetailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaperDetailView.h; sourceTree = "<group>"; };
+		0D1D39B01AFB8BF000C3B6A0 /* PaperDetailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaperDetailView.m; sourceTree = "<group>"; };
+		0D1D39B21AFC951700C3B6A0 /* PaperDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaperDetailViewController.h; sourceTree = "<group>"; };
+		0D1D39B31AFC951700C3B6A0 /* PaperDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaperDetailViewController.m; sourceTree = "<group>"; };
+		0D1D39B51AFF9C8C00C3B6A0 /* WritePaperViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WritePaperViewController.h; sourceTree = "<group>"; };
+		0D1D39B61AFF9C8C00C3B6A0 /* WritePaperViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WritePaperViewController.m; sourceTree = "<group>"; };
+		0D1D39B81B02356E00C3B6A0 /* MyPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPageViewController.h; sourceTree = "<group>"; };
+		0D1D39B91B02356E00C3B6A0 /* MyPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyPageViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0D1D39641AF9F3E400C3B6A0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D1D396D1AF9F3E400C3B6A0 /* CoreGraphics.framework in Frameworks */,
+				0D1D396F1AF9F3E400C3B6A0 /* UIKit.framework in Frameworks */,
+				0D1D396B1AF9F3E400C3B6A0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0D1D39851AF9F3E400C3B6A0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D1D398A1AF9F3E400C3B6A0 /* XCTest.framework in Frameworks */,
+				0D1D398C1AF9F3E400C3B6A0 /* UIKit.framework in Frameworks */,
+				0D1D398B1AF9F3E400C3B6A0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0D1D395E1AF9F3E400C3B6A0 = {
+			isa = PBXGroup;
+			children = (
+				0D1D39701AF9F3E400C3B6A0 /* TheWdabo */,
+				0D1D398F1AF9F3E400C3B6A0 /* TheWdaboTests */,
+				0D1D39691AF9F3E400C3B6A0 /* Frameworks */,
+				0D1D39681AF9F3E400C3B6A0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0D1D39681AF9F3E400C3B6A0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0D1D39671AF9F3E400C3B6A0 /* TheWdabo.app */,
+				0D1D39881AF9F3E400C3B6A0 /* TheWdaboTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0D1D39691AF9F3E400C3B6A0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0D1D396A1AF9F3E400C3B6A0 /* Foundation.framework */,
+				0D1D396C1AF9F3E400C3B6A0 /* CoreGraphics.framework */,
+				0D1D396E1AF9F3E400C3B6A0 /* UIKit.framework */,
+				0D1D39891AF9F3E400C3B6A0 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0D1D39701AF9F3E400C3B6A0 /* TheWdabo */ = {
+			isa = PBXGroup;
+			children = (
+				0D1D39A41AFB2BED00C3B6A0 /* Paper.xib */,
+				0D1D39AF1AFB8BF000C3B6A0 /* PaperDetailView.h */,
+				0D1D39B01AFB8BF000C3B6A0 /* PaperDetailView.m */,
+				0D1D399F1AF9F4D200C3B6A0 /* LoginViewController.h */,
+				0D1D39A01AF9F4D200C3B6A0 /* LoginViewController.m */,
+				0D1D397C1AF9F3E400C3B6A0 /* Main.storyboard */,
+				0D1D39B81B02356E00C3B6A0 /* MyPageViewController.h */,
+				0D1D39B91B02356E00C3B6A0 /* MyPageViewController.m */,
+				0D1D39B51AFF9C8C00C3B6A0 /* WritePaperViewController.h */,
+				0D1D39B61AFF9C8C00C3B6A0 /* WritePaperViewController.m */,
+				0D1D39B21AFC951700C3B6A0 /* PaperDetailViewController.h */,
+				0D1D39B31AFC951700C3B6A0 /* PaperDetailViewController.m */,
+				0D1D39A91AFB2D4E00C3B6A0 /* PaperViewController.h */,
+				0D1D39AA1AFB2D4E00C3B6A0 /* PaperViewController.m */,
+				0D1D39821AF9F3E400C3B6A0 /* Images.xcassets */,
+				0D1D39711AF9F3E400C3B6A0 /* Supporting Files */,
+			);
+			path = TheWdabo;
+			sourceTree = "<group>";
+		};
+		0D1D39711AF9F3E400C3B6A0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0D1D39791AF9F3E400C3B6A0 /* AppDelegate.h */,
+				0D1D397A1AF9F3E400C3B6A0 /* AppDelegate.m */,
+				0D1D39721AF9F3E400C3B6A0 /* TheWdabo-Info.plist */,
+				0D1D39731AF9F3E400C3B6A0 /* InfoPlist.strings */,
+				0D1D39761AF9F3E400C3B6A0 /* main.m */,
+				0D1D39781AF9F3E400C3B6A0 /* TheWdabo-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0D1D398F1AF9F3E400C3B6A0 /* TheWdaboTests */ = {
+			isa = PBXGroup;
+			children = (
+				0D1D39951AF9F3E400C3B6A0 /* TheWdaboTests.m */,
+				0D1D39901AF9F3E400C3B6A0 /* Supporting Files */,
+			);
+			path = TheWdaboTests;
+			sourceTree = "<group>";
+		};
+		0D1D39901AF9F3E400C3B6A0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0D1D39911AF9F3E400C3B6A0 /* TheWdaboTests-Info.plist */,
+				0D1D39921AF9F3E400C3B6A0 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0D1D39661AF9F3E400C3B6A0 /* TheWdabo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0D1D39991AF9F3E400C3B6A0 /* Build configuration list for PBXNativeTarget "TheWdabo" */;
+			buildPhases = (
+				0D1D39631AF9F3E400C3B6A0 /* Sources */,
+				0D1D39641AF9F3E400C3B6A0 /* Frameworks */,
+				0D1D39651AF9F3E400C3B6A0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TheWdabo;
+			productName = TheWdabo;
+			productReference = 0D1D39671AF9F3E400C3B6A0 /* TheWdabo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0D1D39871AF9F3E400C3B6A0 /* TheWdaboTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0D1D399C1AF9F3E400C3B6A0 /* Build configuration list for PBXNativeTarget "TheWdaboTests" */;
+			buildPhases = (
+				0D1D39841AF9F3E400C3B6A0 /* Sources */,
+				0D1D39851AF9F3E400C3B6A0 /* Frameworks */,
+				0D1D39861AF9F3E400C3B6A0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0D1D398E1AF9F3E400C3B6A0 /* PBXTargetDependency */,
+			);
+			name = TheWdaboTests;
+			productName = TheWdaboTests;
+			productReference = 0D1D39881AF9F3E400C3B6A0 /* TheWdaboTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0D1D395F1AF9F3E400C3B6A0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = WangWenBo;
+				TargetAttributes = {
+					0D1D39871AF9F3E400C3B6A0 = {
+						TestTargetID = 0D1D39661AF9F3E400C3B6A0;
+					};
+				};
+			};
+			buildConfigurationList = 0D1D39621AF9F3E400C3B6A0 /* Build configuration list for PBXProject "TheWdabo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0D1D395E1AF9F3E400C3B6A0;
+			productRefGroup = 0D1D39681AF9F3E400C3B6A0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0D1D39661AF9F3E400C3B6A0 /* TheWdabo */,
+				0D1D39871AF9F3E400C3B6A0 /* TheWdaboTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0D1D39651AF9F3E400C3B6A0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D1D39831AF9F3E400C3B6A0 /* Images.xcassets in Resources */,
+				0D1D39751AF9F3E400C3B6A0 /* InfoPlist.strings in Resources */,
+				0D1D397E1AF9F3E400C3B6A0 /* Main.storyboard in Resources */,
+				0D1D39A51AFB2BED00C3B6A0 /* Paper.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0D1D39861AF9F3E400C3B6A0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D1D39941AF9F3E400C3B6A0 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0D1D39631AF9F3E400C3B6A0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D1D39AB1AFB2D4E00C3B6A0 /* PaperViewController.m in Sources */,
+				0D1D39B71AFF9C8C00C3B6A0 /* WritePaperViewController.m in Sources */,
+				0D1D39B41AFC951700C3B6A0 /* PaperDetailViewController.m in Sources */,
+				0D1D39BA1B02356E00C3B6A0 /* MyPageViewController.m in Sources */,
+				0D1D397B1AF9F3E400C3B6A0 /* AppDelegate.m in Sources */,
+				0D1D39771AF9F3E400C3B6A0 /* main.m in Sources */,
+				0D1D39B11AFB8BF000C3B6A0 /* PaperDetailView.m in Sources */,
+				0D1D39A11AF9F4D200C3B6A0 /* LoginViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0D1D39841AF9F3E400C3B6A0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D1D39961AF9F3E400C3B6A0 /* TheWdaboTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0D1D398E1AF9F3E400C3B6A0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0D1D39661AF9F3E400C3B6A0 /* TheWdabo */;
+			targetProxy = 0D1D398D1AF9F3E400C3B6A0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0D1D39731AF9F3E400C3B6A0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0D1D39741AF9F3E400C3B6A0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		0D1D397C1AF9F3E400C3B6A0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0D1D397D1AF9F3E400C3B6A0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0D1D39921AF9F3E400C3B6A0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0D1D39931AF9F3E400C3B6A0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0D1D39971AF9F3E400C3B6A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		0D1D39981AF9F3E400C3B6A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0D1D399A1AF9F3E400C3B6A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TheWdabo/TheWdabo-Prefix.pch";
+				INFOPLIST_FILE = "TheWdabo/TheWdabo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0D1D399B1AF9F3E400C3B6A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TheWdabo/TheWdabo-Prefix.pch";
+				INFOPLIST_FILE = "TheWdabo/TheWdabo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		0D1D399D1AF9F3E400C3B6A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TheWdabo.app/TheWdabo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TheWdabo/TheWdabo-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TheWdaboTests/TheWdaboTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		0D1D399E1AF9F3E400C3B6A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TheWdabo.app/TheWdabo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TheWdabo/TheWdabo-Prefix.pch";
+				INFOPLIST_FILE = "TheWdaboTests/TheWdaboTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0D1D39621AF9F3E400C3B6A0 /* Build configuration list for PBXProject "TheWdabo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0D1D39971AF9F3E400C3B6A0 /* Debug */,
+				0D1D39981AF9F3E400C3B6A0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0D1D39991AF9F3E400C3B6A0 /* Build configuration list for PBXNativeTarget "TheWdabo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0D1D399A1AF9F3E400C3B6A0 /* Debug */,
+				0D1D399B1AF9F3E400C3B6A0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0D1D399C1AF9F3E400C3B6A0 /* Build configuration list for PBXNativeTarget "TheWdaboTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0D1D399D1AF9F3E400C3B6A0 /* Debug */,
+				0D1D399E1AF9F3E400C3B6A0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0D1D395F1AF9F3E400C3B6A0 /* Project object */;
+}

@@ -1,0 +1,345 @@
+TCircle Button Demo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.pch Circle\ Button\ Demo/Circle\ Button\ Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKCircleButton/DKCircleButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/en.lproj/InfoPlist.strings Circle\ Button\ Demo/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Info.plist /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Circle\ Button\ Demo-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app.dSYM /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo
+cTouch /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/Circle Button Demo.LinkFileList
+c0000000055435C15000000000000021D
+t1430477845
+s541
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/DKAppDelegate.o
+t1430477845
+s81644
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/DKCircleButton.o
+t1430477845
+s92784
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/main.o
+t1430477845
+s3604
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/assetcatalog_dependencies.txt
+t1430477847
+s466
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/assetcatalog_generated_info.plist
+t1430477847
+s525
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle Button Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle Button Demo-Prefix.pch.pch
+t1430477845
+s122748
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app
+t1430477847
+s272
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app.dSYM
+t2
+s0
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Circle Button Demo
+t1430477845
+s54984
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Info.plist
+t1430477847
+s1029
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/PkgInfo
+t1430477847
+s8
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/en.lproj/InfoPlist.strings
+t1430477845
+s42
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Circle Button Demo-Info.plist
+c0000000053A9BBFE000000000000049E
+t1403632638
+s1182
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Circle Button Demo-Prefix.pch
+c0000000053A9BBFE0000000000000158
+t1403632638
+s344
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKAppDelegate.m
+c0000000053A9BBFE000000000000165C
+t1403632638
+s5724
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKCircleButton/DKCircleButton.m
+c0000000053A9BBFE00000000000020A3
+t1403632638
+s8355
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Images.xcassets
+c0000000053A9BBFE0000000000000088
+t1403632638
+s136
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/en.lproj/InfoPlist.strings
+c0000000053A9BBFE000000000000002D
+t1403632638
+s45
+
+N/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/main.m
+c0000000053A9BBFE0000000000000165
+t1403632638
+s357
+
+CBuild AST from /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKAppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKCircleButton/DKCircleButton.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies94faa29593f3ba41^6894ae9593f3ba41^---0#1#1#--18"Check dependencies36"F8E75AA8-6353-40AE-9831-0D57EEBF7D63-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Images.xcassets
+s452170645.976135
+e452170647.881795
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Assets.car
+o/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app Circle\ Button\ Demo/Images.xcassets118"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app Circle\ Button\ Demo/Images.xcassets8203fa9593f3ba41^5bcee19793f3ba41^-494"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Assets.car/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@101"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/Images.xcassets/0000000000000000^1322"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app Circle\ Button\ Demo/Images.xcassets    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Images.xcassets36"7A0921A4-2ADE-41BA-B229-AC16D93E99B3-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CCompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170645.798149
+e452170645.917555
+r1
+xCompileC
+xBuild/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/DKAppDelegate.o
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKAppDelegate.m
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKAppDelegate.h
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKCircleButton/DKCircleButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKAppDelegate.m245"CompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.o Circle\ Button\ Demo/DKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd195cc9593f3ba41^10e6ea9593f3ba41^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/DKAppDelegate.m0000000000000000^4255"CompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.o Circle\ Button\ Demo/DKAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-generated-files.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-project-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources -F/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.dia -c /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKAppDelegate.m -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKAppDelegate.o36"CEFE7089-4B73-450F-8CD2-D371F0C46AD7-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CCompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKCircleButton/DKCircleButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170645.747846
+e452170645.928778
+r1
+xCompileC
+xBuild/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/DKCircleButton.o
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKCircleButton/DKCircleButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKCircleButton/DKCircleButton.m
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKCircleButton/DKCircleButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKCircleButton/DKCircleButton.m262"CompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.o Circle\ Button\ Demo/DKCircleButton/DKCircleButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5490bf9593f3ba41^a4c5ed9593f3ba41^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/DKCircleButton/DKCircleButton.m0000000000000000^4291"CompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.o Circle\ Button\ Demo/DKCircleButton/DKCircleButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-generated-files.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-project-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources -F/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.d --serialize-diagnostics /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.dia -c /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/DKCircleButton/DKCircleButton.m -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/DKCircleButton.o36"C379DFDA-DCF6-42CC-8D18-ED363A2F2CD8-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CCompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170645.747115
+e452170645.797653
+r1
+xCompileC
+xBuild/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/main.m
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/DKAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/main.m227"CompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.o Circle\ Button\ Demo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc363bf9593f3ba41^3d9ccc9593f3ba41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/main.m0000000000000000^4201"CompileC Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.o Circle\ Button\ Demo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-generated-files.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-project-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources -F/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/main.m -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/main.o36"1B6211AB-34C2-4B4A-8145-8269F170AAA0-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CCopyStringsFile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/en.lproj/InfoPlist.strings Circle\ Button\ Demo/en.lproj/InfoPlist.strings
+s452170645.974539
+e452170645.977076
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/en.lproj/InfoPlist.strings
+xCircle Button Demo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy Circle Button Demo/en.lproj/InfoPlist.strings152"CopyStringsFile Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/en.lproj/InfoPlist.strings Circle\ Button\ Demo/en.lproj/InfoPlist.strings658ef99593f3ba41^ee24fa9593f3ba41^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/en.lproj/InfoPlist.strings0000000000000000^677"CopyStringsFile Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/en.lproj/InfoPlist.strings Circle\ Button\ Demo/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/en.lproj -- Circle\ Button\ Demo/en.lproj/InfoPlist.strings36"7FFBFC2E-0BBE-4BF0-8A8E-D8D10A9A776A-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app.dSYM /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo
+s452170647.885916
+e452170647.919988
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app.dSYM
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Circle Button Demo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Generate /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app.dSYM166"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app.dSYM Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo8bdde29793f3ba41^f48aeb9793f3ba41^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle%20Button%20Demo.app.dSYM003464dedcffdf42^787"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app.dSYM Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app.dSYM36"FCE904FA-2585-4014-8A32-C2818B291995-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CLd /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo normal i386
+s452170645.929727
+e452170645.973211
+r1
+xLd
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Circle Button Demo
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/Circle Button Demo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/main.o
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/DKCircleButton.o
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle Button Demo.build/Debug-iphonesimulator/Circle Button Demo.build/Objects-normal/i386/DKAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Circle Button Demo97"Ld Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo normal i386c217ee9593f3ba41^0f26f99593f3ba41^---0#0#1#--1615"Ld Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo normal i386    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/Circle\ Button\ Demo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Objects-normal/i386/Circle\ Button\ Demo_dependency_info.dat -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Circle\ Button\ Demo36"D1F4E8FF-CD85-4718-BA12-B9282ED14039-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Info.plist /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Circle\ Button\ Demo-Info.plist
+s452170647.882579
+e452170647.885223
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle Button Demo.app/Info.plist
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Circle Button Demo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Process /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Circle Button Demo-Info.plist146"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Info.plist Circle\ Button\ Demo/Circle\ Button\ Demo-Info.plist2601e29793f3ba41^389fe29793f3ba41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/Circle%20Button%20Demo-Info.plist0000000000000000^1079"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Info.plist Circle\ Button\ Demo/Circle\ Button\ Demo-Info.plist    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Circle\ Button\ Demo-Info.plist -genpkginfo /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app/Info.plist36"DF59F909-8957-4625-BE1F-DD04ACEE2EE8-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CProcessPCH /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.pch Circle\ Button\ Demo/Circle\ Button\ Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170645.683018
+e452170645.746086
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle Button Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle Button Demo-Prefix.pch.pch
+xCircle Button Demo/Circle Button Demo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle Button Demo/Circle Button Demo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile Circle Button Demo/Circle Button Demo-Prefix.pch263"ProcessPCH Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.pch Circle\ Button\ Demo/Circle\ Button\ Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8d41af9593f3ba41^0c02bf9593f3ba41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle%20Button%20Demo/Circle%20Button%20Demo-Prefix.pch0000000000000000^4100"ProcessPCH Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.pch Circle\ Button\ Demo/Circle\ Button\ Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/DKCircleButton-master/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-generated-files.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/Circle\ Button\ Demo-project-headers.hmap -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/Circle\ Button\ Demo.build/Debug-iphonesimulator/Circle\ Button\ Demo.build/DerivedSources -F/Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.d -c /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Circle\ Button\ Demo/Circle\ Button\ Demo-Prefix.pch -o /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Intermediates/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-bhbbsrqqgoruaeddraalkqnivbdd/Circle\ Button\ Demo-Prefix.pch.pch36"78F58F43-EBAD-499A-8257-ADCD51562879-
+b95194858-E6ED-4734-8D5F-5142880DB3CA
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/Circle_Button_Demo-batniqudpqqluxcoazrwpyensbhb/Index/PrecompiledHeaders/Circle\ Button\ Demo-Prefix-eyccyrpqcjyymaafofnfduggquco_ast/Circle\ Button\ Demo-Prefix.pch.pch Circle\ Button\ Demo/Circle\ Button\ Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/DKCircleButton-master/Example/Build/Products/Debug-iphonesimulator/Circle\ Button\ Demo.app
+r0
+

@@ -1,0 +1,684 @@
+TAllInCode
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch AllInCode/AllInCode-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj/InfoPlist.strings AllInCode/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode
+cTouch /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000054DBA804000000000058E0E0
+t1423681540
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000054DBA80500000000005B82F0
+t1423681541
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000054DBA80600000000003599D0
+t1423681542
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000054DBA80800000000002FC3B0
+t1423681544
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000054DBA807000000000004B000
+t1423681543
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000054DBA80F0000000000037680
+t1423681551
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000054DBA811000000000048F720
+t1423681553
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000054DBA811000000000013FD70
+t1423681553
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000054DBA84500000000002BC360
+t1423681605
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000054DBA85D0000000000002338
+t1423681629
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000054DBA860000000000008D370
+t1423681632
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000054DBA8600000000000392E20
+t1423681632
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000054DB870900000000000141F0
+t1423673097
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000054DBA8610000000000014A80
+t1423681633
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000054DBA8610000000000033BA0
+t1423681633
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000054DBA861000000000001CFB0
+t1423681633
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000054DBA861000000000001B2B0
+t1423681633
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000054DBA86100000000000C9570
+t1423681633
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000054DBA8610000000000063280
+t1423681633
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000054DBA8610000000000008880
+t1423681633
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000054DBA8610000000000015080
+t1423681633
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000054DBA86100000000000230F0
+t1423681633
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000054DBA861000000000000E380
+t1423681633
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000054DBA8610000000000089380
+t1423681633
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000054DBA8610000000000017320
+t1423681633
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000054DBA8610000000000039CD0
+t1423681633
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000054DBA861000000000000B0B0
+t1423681633
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000054DBA8620000000000167E80
+t1423681634
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000054DBA86100000000000106A0
+t1423681633
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000054DBA861000000000001CE40
+t1423681633
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000054DBA86100000000000740C0
+t1423681633
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000054DBA861000000000006CA60
+t1423681633
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000054DBA861000000000001BAD0
+t1423681633
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000054DBA8610000000000084A20
+t1423681633
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000054DBA8BD000000000000514C
+t1423681725
+s20812
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist
+c00000000554467B50000000000000502
+t1430546357
+s1282
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Prefix.pch
+c00000000554467B00000000000000158
+t1430546352
+s344
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.h
+c00000000554467B00000000000000115
+t1430546352
+s277
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m
+c00000000554467B000000000000007D7
+t1430546352
+s2007
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Base.lproj/Main.storyboard
+c00000000554467B0000000000000071B
+t1430546352
+s1819
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Images.xcassets
+c00000000554467B00000000000000088
+t1430546352
+s136
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.h
+c00000000554467B000000000000000D7
+t1430546352
+s215
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m
+c0000000055446ED10000000000000AAA
+t1430548177
+s2730
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/en.lproj/InfoPlist.strings
+c00000000554467B0000000000000002D
+t1430546352
+s45
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m
+c00000000554467B00000000000000151
+t1430546352
+s337
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AllInCode.LinkFileList
+c0000000055446ED900000000000001C4
+t1430548185
+s452
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o
+t1430548187
+s62392
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o
+t1430548187
+s59024
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o
+t1430548187
+s3556
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_dependencies.txt
+t1430548198
+s397
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_generated_info.plist
+t1430548198
+s525
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch
+t1430548186
+s122144
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app
+t1430548198
+s306
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM
+t1430548198
+s102
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode
+t1430548188
+s27940
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Base.lproj/Main.storyboardc
+t1430548198
+s170
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist
+t1430548198
+s1062
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/PkgInfo
+t1430548198
+s8
+
+N/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj/InfoPlist.strings
+t1430548188
+s42
+
+N/usr/lib/libSystem.B.dylib
+c0000000054DB86F0000000000000E6D0
+t1423673072
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000054DB87090000000000012A00
+t1423673097
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000054DB86D8000000000002E320
+t1423673048
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000054DB86F00000000000021860
+t1423673072
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000054DB8707000000000001B620
+t1423673095
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000054DB870700000000000BD920
+t1423673095
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000054DB870900000000000141F0
+t1423673097
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000054DB8708000000000000A120
+t1423673096
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000054DB8708000000000001D550
+t1423673096
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000054DB87070000000000014EE0
+t1423673095
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000054DB870B0000000000010380
+t1423673099
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000054DB870B000000000000C4C0
+t1423673099
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000054DB870900000000000357A0
+t1423673097
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000054DB8709000000000000C070
+t1423673097
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000054DB86F00000000000168D00
+t1423673072
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000054DB87070000000000010630
+t1423673095
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000054DB870A000000000001DF10
+t1423673098
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000054DB86F00000000000075B00
+t1423673072
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000054DB86F0000000000007CD60
+t1423673072
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000054DB86F000000000000766C0
+t1423673072
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000054DB87090000000000044DC0
+t1423673097
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000054DB86F00000000000021FA0
+t1423673072
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000054DB8709000000000002D920
+t1423673097
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000054DB8709000000000001E570
+t1423673097
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000054DB86FA000000000000CC70
+t1423673082
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000054DB86FF000000000000C3F0
+t1423673087
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000054DB870900000000000199F0
+t1423673097
+s104944
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc5532f72a6f4ba41^dc843b72a6f4ba41^---0#1#1#--18"Check dependencies36"B864774C-A229-41FD-9CB6-B5743ABE9E34-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Images.xcassets
+s452240988.410312
+e452240998.323041
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app
+x/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Assets.car
+o/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AllInCode.app AllInCode/Images.xcassets96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AllInCode.app AllInCode/Images.xcassets001e695ca6f4ba41^89b35266a6f4ba41^-425"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Assets.car/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@77"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Images.xcassets/0000000000000000^1179"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AllInCode.app AllInCode/Images.xcassets    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Images.xcassets36"5244B8D6-7BCA-4BBA-A069-2D07690C54AF-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CCompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452240986.741790
+e452240987.452314
+r1
+xCompileC
+xBuild/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m208"CompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o AllInCode/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37fdbd5aa6f4ba41^6ccc735ba6f4ba41^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m0000000000000000^3781"CompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o AllInCode/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.m -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o36"3109760A-8BD0-4D37-819E-7EEB432B4463-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CCompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452240986.741172
+e452240987.470981
+r1
+xCompileC
+xBuild/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o
+x/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m214"CompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o AllInCode/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2bd9bd5aa6f4ba41^0da7785ba6f4ba41^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m0000000000000000^3799"CompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o AllInCode/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.dia -c /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/ViewController.m -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o36"35FADC76-0B49-41FF-8C5F-1132FA9EC4D1-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CCompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452240987.453162
+e452240987.551459
+r1
+xCompileC
+xBuild/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m194"CompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o AllInCode/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc328745ba6f4ba41^e82e8d5ba6f4ba41^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m0000000000000000^3739"CompileC Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o AllInCode/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/main.m -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o36"B8B77DF8-D680-46C6-854B-B513365229E2-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CCompileStoryboard /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Base.lproj/Main.storyboard
+s452240988.405187
+e452240998.177929
+r1
+xCompileStoryboard
+x/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard AllInCode/Base.lproj/Main.storyboard54"CompileStoryboard AllInCode/Base.lproj/Main.storyboardddcd675ca6f4ba41^53922d66a6f4ba41^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Base.lproj/Main.storyboard0000000000000000^860"CompileStoryboard AllInCode/Base.lproj/Main.storyboard    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Base.lproj/Main.storyboardc /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/Base.lproj/Main.storyboard36"77E665FE-C662-4FD9-813F-781F617AC685-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CCopyStringsFile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj/InfoPlist.strings AllInCode/en.lproj/InfoPlist.strings
+s452240988.404135
+e452240988.410090
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj/InfoPlist.strings
+xAllInCode/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy AllInCode/en.lproj/InfoPlist.strings130"CopyStringsFile Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj/InfoPlist.strings AllInCode/en.lproj/InfoPlist.stringscf87675ca6f4ba41^9127695ca6f4ba41^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/en.lproj/InfoPlist.strings0000000000000000^611"CopyStringsFile Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj/InfoPlist.strings AllInCode/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/en.lproj -- AllInCode/en.lproj/InfoPlist.strings36"42FFC14E-5D58-4DB7-9F5F-60FFF1793847-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode
+s452240998.347477
+e452240998.462419
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode7a195966a6f4ba41^bb627666a6f4ba41^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM003464dedcffdf42^688"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app.dSYM36"68B13F0D-1232-45A5-A3D4-C659617088CE-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CLd /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode normal i386
+s452240987.552472
+e452240988.395971
+r1
+xLd
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AllInCode.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/ViewController.o
+d/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AppDelegate.o
+d/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode75"Ld Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode normal i38655868d5ba6f4ba41^7460655ca6f4ba41^---0#0#1#--1439"Ld Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode normal i386    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AllInCode.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/Objects-normal/i386/AllInCode_dependency_info.dat -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/AllInCode36"F5BAB193-C009-4691-875B-E2A22E8B338C-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist
+s452240998.323860
+e452240998.346492
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist
+x/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist113"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist AllInCode/AllInCode-Info.plist2ffa5266a6f4ba41^38bc5866a6f4ba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist0000000000000000^925"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist AllInCode/AllInCode-Info.plist    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Info.plist -genpkginfo /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app/Info.plist36"F8A49F89-FB7E-41E7-8C32-BFAD364CA4C3-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CProcessPCH /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch AllInCode/AllInCode-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452240985.115906
+e452240986.740280
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch
+xAllInCode/AllInCode-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile AllInCode/AllInCode-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch AllInCode/AllInCode-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2dd12159a6f4ba41^2b84bd5aa6f4ba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Prefix.pch0000000000000000^3649"ProcessPCH Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch AllInCode/AllInCode-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AllInCode    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/AllInCode-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/AllInCode.build/Debug-iphonesimulator/AllInCode.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.d -c /Users/wangwenbo/Desktop/Practice/AllInCode/AllInCode/AllInCode-Prefix.pch -o /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Intermediates/PrecompiledHeaders/AllInCode-Prefix-eyztcxorqnroxfakdukdklzxbwmn/AllInCode-Prefix.pch.pch36"07C8C7FD-1E7D-4A61-A853-682405E4687C-
+bB61E0158-A0F4-47BB-A15F-410769E6630A
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/AllInCode-elvygurnvjlsdchikobjmoidnrol/Index/PrecompiledHeaders/AllInCode-Prefix-ebfxivzmneiwjugyniuhmnjgpmqr_ast/AllInCode-Prefix.pch.pch AllInCode/AllInCode-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/Practice/AllInCode/Build/Products/Debug-iphonesimulator/AllInCode.app
+r0
+

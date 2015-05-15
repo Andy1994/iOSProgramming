@@ -1,0 +1,226 @@
+Tcaocaocao
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch caocaocao/caocaocao-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch
+t1430477408
+s122144
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o
+t2
+s0
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m
+c0000000055433B5F00000000000007D7
+t1430469471
+s2007
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m
+c0000000055350B1C0000000000008100
+t1429539612
+s33024
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m
+c0000000055435A560000000000002149
+t1430477398
+s8521
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/caocaocao-Prefix.pch
+c00000000554339440000000000000158
+t1430468932
+s344
+
+N/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m
+c00000000554339440000000000000151
+t1430468932
+s337
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2b328edf91f3ba41^3bfd98df91f3ba41^---0#1#1#--18"Check dependencies36"49AA8AB8-81D6-41EC-9DAE-D63D14665C79-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170208.540398
+e452170209.037965
+r1
+xCompileC
+xBuild/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m208"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o caocaocao/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8b6d8ae091f3ba41^8dd516e191f3ba41^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m0000000000000000^3781"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o caocaocao/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/caocaocao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.m -o /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/AppDelegate.o36"339545B8-5103-441D-9656-40B9BB35252F-
+bDB5DCC37-A6E0-4E7B-81FB-FEA8C985969F
+
+CCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170208.981197
+e452170209.144012
+r0
+xCompileC
+xBuild/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o
+x/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m:32:9: fatal error: 'UIColor+BFPaperColors.h' file not found
+o#import "UIColor+BFPaperColors.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m212"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o caocaocao/BFPaperButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler164dfbe091f3ba41^d4d624e191f3ba41^-193"/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m:32:9: fatal error: 'UIColor+BFPaperColors.h' file not found#import "UIColor+BFPaperColors.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@40"'UIColor+BFPaperColors.h' file not found-452170209#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m0000000000000000^31#8#31#8#1344#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@76"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m0000000000000000^3793"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o caocaocao/BFPaperButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/caocaocao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.dia -c /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.m -o /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/BFPaperButton.o36"5AA7B024-A206-494F-807B-D2149153EC24-
+bDB5DCC37-A6E0-4E7B-81FB-FEA8C985969F
+
+CCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170208.539790
+e452170208.980107
+r1
+xCompileC
+xBuild/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o
+x/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.h
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/BFPaperButton.h
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:28:41: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfFlatSmart addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                        ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:38:40: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfFlatDumb addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                       ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:45:46: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfFlatClearSmart addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                             ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:53:45: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfFlatClearDumb addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                            ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:62:43: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfRaisedSmart addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                          ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:70:42: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfRaisedDumb addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                         ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:79:48: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfRaisedSmartSmall addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                               ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:90:47: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [bfRaisedDumbSmall addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                              ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:101:37: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [circle1 addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                    ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:111:37: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [circle2 addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                    ^
+o/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:125:37: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]
+o    [circle3 addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];
+o                                    ^
+o11 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m214"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o caocaocao/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere4498ae091f3ba41^535d00e191f3ba41^-3438"/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:28:41: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfFlatSmart addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                        ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:38:40: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfFlatDumb addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                       ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:45:46: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfFlatClearSmart addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                             ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:53:45: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfFlatClearDumb addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                            ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:62:43: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfRaisedSmart addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                          ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:70:42: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfRaisedDumb addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                         ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:79:48: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfRaisedSmartSmall addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                               ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:90:47: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [bfRaisedDumbSmall addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                              ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:101:37: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [circle1 addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                    ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:111:37: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [circle2 addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                    ^/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m:125:37: warning: undeclared selector 'buttonWasPressed:' [-Wundeclared-selector]    [circle3 addTarget:self action:@selector(buttonWasPressed:) forControlEvents:UIControlEventTouchUpInside];                                    ^11 warnings generated.11(36%IDEClangDiagnosticActivityLogMessage2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^27#40#27#40#948#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^37#39#37#39#1721#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^44#45#44#45#2286#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^52#44#52#44#2894#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^61#42#61#42#3430#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^69#41#69#41#3988#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^78#47#78#47#4662#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^89#46#89#46#5473#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^100#36#100#36#6118#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^110#36#110#36#6787#0#14"Semantic Issue--2@39"Undeclared selector 'buttonWasPressed:'-452170208#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^124#36#124#36#7796#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m0000000000000000^3799"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o caocaocao/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/caocaocao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.dia -c /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/ViewController.m -o /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/ViewController.o36"998B5899-1D8C-4454-AC08-81B964A6E350-
+bDB5DCC37-A6E0-4E7B-81FB-FEA8C985969F
+
+CCompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170209.038468
+e452170209.121147
+r1
+xCompileC
+xBuild/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m194"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o caocaocao/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler86020ae191f3ba41^36041fe191f3ba41^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m0000000000000000^3739"CompileC Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o caocaocao/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/caocaocao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/main.m -o /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/Objects-normal/i386/main.o36"5D7002CE-CAFB-4D47-BE70-510837D1A2C6-
+bDB5DCC37-A6E0-4E7B-81FB-FEA8C985969F
+
+CCompileStoryboard /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app/en.lproj/InfoPlist.strings caocaocao/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app.dSYM /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app/caocaocao
+r0
+
+CLd /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app/caocaocao normal i386
+r0
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app/Info.plist /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/caocaocao-Info.plist
+r0
+
+CProcessPCH /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch caocaocao/caocaocao-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452170207.598793
+e452170208.538900
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch
+xcaocaocao/caocaocao-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/caocaocao-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile caocaocao/caocaocao-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch caocaocao/caocaocao-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb5c599df91f3ba41^b6f789e091f3ba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/caocaocao-Prefix.pch0000000000000000^3649"ProcessPCH Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch caocaocao/caocaocao-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/caocaocao    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/caocaocao-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/caocaocao.build/Debug-iphonesimulator/caocaocao.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.d -c /Users/wangwenbo/Desktop/Practice/caocaocao/caocaocao/caocaocao-Prefix.pch -o /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Intermediates/PrecompiledHeaders/caocaocao-Prefix-fbdtmjmehwwlmyagqegovixttpdi/caocaocao-Prefix.pch.pch36"4FA970AE-2C9E-4F02-B2A0-F42758463DCC-
+bDB5DCC37-A6E0-4E7B-81FB-FEA8C985969F
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/caocaocao-annrnpvuovsxcmesqpxnioyihwuk/Index/PrecompiledHeaders/caocaocao-Prefix-frgqodblgdemcigaetpthrhgsubh_ast/caocaocao-Prefix.pch.pch caocaocao/caocaocao-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/Practice/caocaocao/Build/Products/Debug-iphonesimulator/caocaocao.app
+r0
+

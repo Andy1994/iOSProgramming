@@ -1,0 +1,363 @@
+TServerTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch ServerTest/ServerTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj/InfoPlist.strings ServerTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest
+cTouch /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch
+t1430908528
+s122212
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o
+t1430908528
+s62400
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ServerTest.LinkFileList
+c000000005549EE7000000000000001CD
+t1430908528
+s461
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o
+t1430908528
+s48196
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o
+t1430908528
+s3560
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_dependencies.txt
+t1430908530
+s404
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_generated_info.plist
+t1430908530
+s525
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app
+t1430908531
+s306
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM
+t2
+s0
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Base.lproj/Main.storyboardc
+t1430908531
+s170
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist
+t1430908531
+s1019
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/PkgInfo
+t1430908531
+s8
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest
+t1430908528
+s22108
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj/InfoPlist.strings
+t1430908528
+s42
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m
+c000000005542F6CD00000000000007D8
+t1430451917
+s2008
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Base.lproj/Main.storyboard
+c000000005542FC5C0000000000000FAD
+t1430453340
+s4013
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Images.xcassets
+c000000005542F6CD0000000000000088
+t1430451917
+s136
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist
+c000000005542F6CD00000000000004C6
+t1430451917
+s1222
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Prefix.pch
+c000000005542F6CD0000000000000158
+t1430451917
+s344
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m
+c000000005542FCD30000000000000614
+t1430453459
+s1556
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/en.lproj/InfoPlist.strings
+c000000005542F6CD000000000000002D
+t1430451917
+s45
+
+N/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m
+c000000005542F6CD0000000000000152
+t1430451917
+s338
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdff836f025faba41^43c742f025faba41^---0#1#1#--18"Check dependencies36"CF3022BD-8ED0-43DC-9AC2-1211F6F4CF62-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Images.xcassets
+s452601328.907739
+e452601330.445134
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app
+x/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Assets.car
+o/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ServerTest.app ServerTest/Images.xcassets98"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ServerTest.app ServerTest/Images.xcassets8275e8f025faba41^f5f471f225faba41^-432"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Assets.car/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@79"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Images.xcassets/0000000000000000^1192"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ServerTest.app ServerTest/Images.xcassets    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Images.xcassets36"CB6CD56B-3B63-46B8-8AFD-B48D9E5973DE-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CCompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452601328.379368
+e452601328.658055
+r1
+xCompileC
+xBuild/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m211"CompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o ServerTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0d3661f025faba41^d579a8f025faba41^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m0000000000000000^3823"CompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o ServerTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.m -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o36"F1E3DD5B-7A69-48BE-B6E6-40E3D40513A3-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CCompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452601328.378331
+e452601328.710647
+r1
+xCompileC
+xBuild/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o
+x/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m217"CompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o ServerTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1bf560f025faba41^55f6b5f025faba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m0000000000000000^3841"CompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o ServerTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.dia -c /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ViewController.m -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o36"DAAEB2A7-E215-4785-8C90-7EF064346575-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CCompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452601328.658925
+e452601328.710247
+r1
+xCompileC
+xBuild/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m197"CompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o ServerTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler14d0a8f025faba41^3be5b5f025faba41^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m0000000000000000^3781"CompileC Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o ServerTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/main.m -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o36"A79868C0-A8A0-4D30-9BAD-4E313C73AD47-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CCompileStoryboard /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Base.lproj/Main.storyboard
+s452601328.884509
+e452601331.634666
+r1
+xCompileStoryboard
+x/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard ServerTest/Base.lproj/Main.storyboard55"CompileStoryboard ServerTest/Base.lproj/Main.storyboard9d80e2f025faba41^c87aa2f325faba41^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Base.lproj/Main.storyboard0000000000000000^866"CompileStoryboard ServerTest/Base.lproj/Main.storyboard    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Base.lproj/Main.storyboardc /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/Base.lproj/Main.storyboard36"AA0A216E-6EC6-4434-8B6C-FF4D779ED1B1-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CCopyStringsFile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj/InfoPlist.strings ServerTest/en.lproj/InfoPlist.strings
+s452601328.883026
+e452601328.907484
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj/InfoPlist.strings
+xServerTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy ServerTest/en.lproj/InfoPlist.strings132"CopyStringsFile Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj/InfoPlist.strings ServerTest/en.lproj/InfoPlist.stringse622e2f025faba41^3197e8f025faba41^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/en.lproj/InfoPlist.strings0000000000000000^617"CopyStringsFile Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj/InfoPlist.strings ServerTest/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/en.lproj -- ServerTest/en.lproj/InfoPlist.strings36"E5CE904A-61D8-49D7-86B0-C75D3BF45040-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest
+s452601331.639294
+e452601331.664599
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM136"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest30bba3f325faba41^fa25aaf325faba41^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM003464dedcffdf42^697"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app.dSYM36"7F95C16C-09BE-48D8-8240-6A295309B2BE-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CLd /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest normal i386
+s452601328.712164
+e452601328.881744
+r1
+xLd
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ServerTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ViewController.o
+d/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/AppDelegate.o
+d/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest77"Ld Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest normal i386718eb6f025faba41^f5bee1f025faba41^---0#0#1#--1455"Ld Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest normal i386    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ServerTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/Objects-normal/i386/ServerTest_dependency_info.dat -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/ServerTest36"4D80B906-C34B-4CFB-A09D-1D66168B5C1B-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist
+s452601331.635827
+e452601331.638554
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist
+x/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist116"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist ServerTest/ServerTest-Info.plist13d6a2f325faba41^927aa3f325faba41^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist0000000000000000^939"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist ServerTest/ServerTest-Info.plist    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Info.plist -genpkginfo /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app/Info.plist36"7C001C3A-40A4-42FB-9BAA-F9CF2420A516-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CProcessPCH /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch ServerTest/ServerTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452601328.262886
+e452601328.377479
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch
+xServerTest/ServerTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ServerTest/ServerTest-Prefix.pch223"ProcessPCH Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch ServerTest/ServerTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler689343f025faba41^40a360f025faba41^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Prefix.pch0000000000000000^3690"ProcessPCH Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch ServerTest/ServerTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/ServerTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/ServerTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/ServerTest.build/Debug-iphonesimulator/ServerTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.d -c /Users/wangwenbo/Desktop/Practice/ServerTest/ServerTest/ServerTest-Prefix.pch -o /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Intermediates/PrecompiledHeaders/ServerTest-Prefix-ekskflisdjkymnaxktvqzqfhvpta/ServerTest-Prefix.pch.pch36"0C57F474-6123-4286-BF33-C83CF201E1F0-
+b55B323E8-4545-4B3D-B87B-C37CBBCC9BA5
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/ServerTest-cwguemcglvjyosahgiqmvoxprffz/Index/PrecompiledHeaders/ServerTest-Prefix-fqdygjjnsmblckdldeshsebqnbyc_ast/ServerTest-Prefix.pch.pch ServerTest/ServerTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/Practice/ServerTest/Build/Products/Debug-iphonesimulator/ServerTest.app
+r0
+

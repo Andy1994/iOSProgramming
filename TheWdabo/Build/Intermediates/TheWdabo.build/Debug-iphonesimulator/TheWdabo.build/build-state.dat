@@ -1,0 +1,959 @@
+TTheWdabo
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch TheWdabo/TheWdabo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj/InfoPlist.strings TheWdabo/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Base.lproj/Main.storyboard
+cCompileXIB /Users/wangwenbo/Desktop/TheWdabo/Paper.xib
+cCompileAssetCatalog /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo
+cTouch /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000054DBA804000000000058E0E0
+t1423681540
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000054DBA80500000000005B82F0
+t1423681541
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000054DBA80600000000003599D0
+t1423681542
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000054DBA80800000000002FC3B0
+t1423681544
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000054DBA807000000000004B000
+t1423681543
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000054DBA80F0000000000037680
+t1423681551
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000054DBA811000000000048F720
+t1423681553
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000054DBA811000000000013FD70
+t1423681553
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000054DBA84500000000002BC360
+t1423681605
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000054DBA85D0000000000002338
+t1423681629
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000054DBA860000000000008D370
+t1423681632
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000054DBA8600000000000392E20
+t1423681632
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000054DB870900000000000141F0
+t1423673097
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000054DBA8610000000000014A80
+t1423681633
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000054DBA8610000000000033BA0
+t1423681633
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000054DBA861000000000001CFB0
+t1423681633
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000054DBA861000000000001B2B0
+t1423681633
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000054DBA86100000000000C9570
+t1423681633
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000054DBA8610000000000063280
+t1423681633
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000054DBA8610000000000008880
+t1423681633
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000054DBA8610000000000015080
+t1423681633
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000054DBA86100000000000230F0
+t1423681633
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000054DBA861000000000000E380
+t1423681633
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000054DBA8610000000000089380
+t1423681633
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000054DBA8610000000000017320
+t1423681633
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000054DBA8610000000000039CD0
+t1423681633
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000054DBA861000000000000B0B0
+t1423681633
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000054DBA8620000000000167E80
+t1423681634
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000054DBA86100000000000106A0
+t1423681633
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000054DBA861000000000001CE40
+t1423681633
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000054DBA86100000000000740C0
+t1423681633
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000054DBA861000000000006CA60
+t1423681633
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000054DBA861000000000001BAD0
+t1423681633
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000054DBA8610000000000084A20
+t1423681633
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000054DBA8BD000000000000514C
+t1423681725
+s20812
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch
+t1430896847
+s121900
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o
+t1430896847
+s62360
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o
+t1431419203
+s81124
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.o
+c00000000554CAF85000000000000ADE4
+t1431089029
+s44516
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o
+t1431494489
+s52576
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o
+t1431067766
+s51500
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o
+t1431494990
+s76060
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o
+t1431493163
+s82128
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/TheWdabo.LinkFileList
+c000000005551FED30000000000000491
+t1431437011
+s1169
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o
+t1431395736
+s65928
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o
+t1430896847
+s3524
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_dependencies.txt
+t1431493166
+s678
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_generated_info.plist
+t1431493166
+s777
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app
+t1431494991
+s476
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM
+t1431494852
+s102
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Base.lproj/Main.storyboardc
+t1431494780
+s374
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist
+t1431493168
+s1033
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Pape.nib
+t1430976268
+s1502
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Paper.nib
+t1431494871
+s2813
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/PkgInfo
+t1431493168
+s8
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo
+t1431494991
+s96824
+
+N/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj/InfoPlist.strings
+t1430896847
+s42
+
+N/Users/wangwenbo/Desktop/TheWdabo/Pape.xib
+c00000000554AF5480000000000000780
+t1430975816
+s1920
+
+N/Users/wangwenbo/Desktop/TheWdabo/Paper.xib
+c000000005552E0D500000000000010D4
+t1431494869
+s4308
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.h
+c000000005549BC640000000000000114
+t1430895716
+s276
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m
+c000000005549BC6400000000000007D6
+t1430895716
+s2006
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Base.lproj/Main.storyboard
+c000000005552E079000000000000A4C1
+t1431494777
+s42177
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Images.xcassets
+c000000005552D9A200000000000000CC
+t1431493026
+s204
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.h
+c000000005549BD5100000000000000E0
+t1430895953
+s224
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m
+c000000005551B8FE00000000000015C5
+t1431419134
+s5573
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.h
+c00000000554CADE10000000000000160
+t1431088609
+s352
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m
+c00000000554CAF4600000000000001D4
+t1431088966
+s468
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.h
+c000000005551FDED00000000000000E3
+t1431436781
+s227
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m
+c000000005552DF5700000000000005BD
+t1431494487
+s1469
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.h
+c00000000554C5C6D00000000000001CF
+t1431067757
+s463
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m
+c00000000554B55310000000000000163
+t1431000369
+s355
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.h
+c00000000554D9FAF0000000000000286
+t1431150511
+s646
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m
+c000000005552E14E0000000000000F23
+t1431494990
+s3875
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.h
+c00000000554DFB1D00000000000001B7
+t1431173917
+s439
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m
+c00000000555211D40000000000001112
+t1431441876
+s4370
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist
+c000000005549BCF4000000000000041C
+t1430895860
+s1052
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Prefix.pch
+c000000005549BC640000000000000158
+t1430895716
+s344
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.h
+c0000000055500A0E0000000000000120
+t1431308814
+s288
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m
+c000000005550B8DF00000000000009EC
+t1431353567
+s2540
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/en.lproj/InfoPlist.strings
+c000000005549BC64000000000000002D
+t1430895716
+s45
+
+N/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m
+c000000005549BC640000000000000150
+t1430895716
+s336
+
+N/usr/lib/libSystem.B.dylib
+c0000000054DB86F0000000000000E6D0
+t1423673072
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000054DB87090000000000012A00
+t1423673097
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000054DB86D8000000000002E320
+t1423673048
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000054DB86F00000000000021860
+t1423673072
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000054DB8707000000000001B620
+t1423673095
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000054DB870700000000000BD920
+t1423673095
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000054DB870900000000000141F0
+t1423673097
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000054DB8708000000000000A120
+t1423673096
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000054DB8708000000000001D550
+t1423673096
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000054DB87070000000000014EE0
+t1423673095
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000054DB870B0000000000010380
+t1423673099
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000054DB870B000000000000C4C0
+t1423673099
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000054DB870900000000000357A0
+t1423673097
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000054DB8709000000000000C070
+t1423673097
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000054DB86F00000000000168D00
+t1423673072
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000054DB87070000000000010630
+t1423673095
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000054DB870A000000000001DF10
+t1423673098
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000054DB86F00000000000075B00
+t1423673072
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000054DB86F0000000000007CD60
+t1423673072
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000054DB86F000000000000766C0
+t1423673072
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000054DB87090000000000044DC0
+t1423673097
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000054DB86F00000000000021FA0
+t1423673072
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000054DB8709000000000002D920
+t1423673097
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000054DB8709000000000001E570
+t1423673097
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000054DB86FA000000000000CC70
+t1423673082
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000054DB86FF000000000000C3F0
+t1423673087
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000054DB870900000000000199F0
+t1423673097
+s104944
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperLabelController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies408aaece1803bb41^622fb0ce1803bb41^---0#1#1#--18"Check dependencies36"2072921B-01DE-475F-B096-29A0F05CABC7-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Images.xcassets
+s453185964.931839
+e453185966.715447
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/AppIcon29x29@2x.png
+o/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/AppIcon40x40@2x.png
+o/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/AppIcon60x60@2x.png
+o/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Assets.car
+o/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TheWdabo.app TheWdabo/Images.xcassets94"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TheWdabo.app TheWdabo/Images.xcassets25afeeac1103bb41^282ab7ae1103bb41^-703"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/AppIcon29x29@2x.png/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/AppIcon40x40@2x.png/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/AppIcon60x60@2x.png/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Assets.car/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@66"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Images.xcassets/0000000000000000^1121"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TheWdabo.app TheWdabo/Images.xcassets    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Images.xcassets36"DD561C6E-3AA3-45C2-BA9F-0894F73F8071-
+b9C72DADF-29D0-40B6-B6AF-CF3FD1048370
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452589647.099051
+e452589647.427664
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m205"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o TheWdabo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f83194ff8f9ba41^677e6d4ff8f9ba41^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m0000000000000000^3613"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o TheWdabo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o36"18C77B24-55A4-453A-AAA1-DC91116DD8CD-
+b05456FF5-D468-463C-9C00-4AB121146FC4
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453112003.355526
+e453112003.537637
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m221"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o TheWdabo/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera5f55bc3f001bb41^f4a789c3f001bb41^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m0000000000000000^3661"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o TheWdabo/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/LoginViewController.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o36"F6E00C1A-4E54-42AB-BCE5-F89DE1D4942A-
+b3D0DD8D6-1EDB-46BA-9651-6B4BBF747E43
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452781828.782985
+e452781829.059535
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m211"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.o TheWdabo/MainController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b89c804e7fcba41^78291505e7fcba41^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m0000000000000000^3631"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.o TheWdabo/MainController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MainController.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MainController.o36"6C58E8F4-1D9F-41D3-A303-BDD2D28A2D33-
+bE89DF7AF-FF2E-4A21-BA98-CACC16307B53
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453187288.198188
+e453187289.238466
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m223"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o TheWdabo/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler62db32d81603bb41^6b0d3dd91603bb41^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m0000000000000000^3667"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o TheWdabo/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/MyPageViewController.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o36"E4FBD1BC-82D9-4BAA-9F4A-75BC0B79134F-
+b0CF70C46-E2E8-4013-BDDC-C04787B426B0
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452760566.286949
+e452760566.495863
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m213"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o TheWdabo/PaperDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler198c49f693fcba41^a4fe7ef693fcba41^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m0000000000000000^3637"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o TheWdabo/PaperDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o36"28FCE917-6FB9-4129-80E1-66BB52012A12-
+bC1D86967-1C16-48DF-9853-1502877ED44B
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453187790.684703
+e453187790.854348
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.h
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m233"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o TheWdabo/PaperDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5f7eafce1803bb41^5a11ddce1803bb41^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m0000000000000000^3697"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o TheWdabo/PaperDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o36"14C2DD7C-2D9E-448E-9AF0-E9DC5337D989-
+b6903C398-3936-4CDE-97E1-3CEA51EE99B5
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperLabelController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperLabelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453185959.885823
+e453185963.391950
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.h
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.h
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m221"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o TheWdabo/PaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9fe4e2a71103bb41^f75664ab1103bb41^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m0000000000000000^3661"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o TheWdabo/PaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o36"24BABD7F-4598-4A53-B92D-A37CA8EA902D-
+b9C72DADF-29D0-40B6-B6AF-CF3FD1048370
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453088535.302334
+e453088536.619942
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.h
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperViewController.h
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/PaperDetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m231"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o TheWdabo/WritePaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7d84d179501bb41^d3bd9e189501bb41^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m0000000000000000^3691"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o TheWdabo/WritePaperViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/WritePaperViewController.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o36"40A5D54B-3653-4BE2-A99C-8CA17E439FD2-
+b6C6367F5-172E-48B9-8FDB-2B42ACE9247A
+
+CCompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452589647.100459
+e452589647.329162
+r1
+xCompileC
+xBuild/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m191"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o TheWdabo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2fe0194ff8f9ba41^2445544ff8f9ba41^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m0000000000000000^3571"CompileC Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o TheWdabo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/main.m -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o36"0A3BB6EC-09E9-4991-BCBC-B568A3CEBC6B-
+b05456FF5-D468-463C-9C00-4AB121146FC4
+
+CCompileStoryboard /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Base.lproj/Main.storyboard
+s453187577.473726
+e453187580.663667
+r1
+xCompileStoryboard
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Base.lproj/Main.storyboard
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard TheWdabo/Base.lproj/Main.storyboard53"CompileStoryboard TheWdabo/Base.lproj/Main.storyboardda5879f91703bb41^21e7a9fc1703bb41^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@76"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Base.lproj/Main.storyboard0000000000000000^827"CompileStoryboard TheWdabo/Base.lproj/Main.storyboard    cd /Users/wangwenbo/Desktop/TheWdabo    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Base.lproj/Main.storyboardc /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/Base.lproj/Main.storyboard36"12A5C2C8-DF7D-46C8-93CB-AE2027B2BA95-
+bFB80BDEA-A665-4707-AD33-FC54A4E49D32
+
+CCompileXIB /Users/wangwenbo/Desktop/TheWdabo/Pape.xib
+s452669064.804998
+e452669068.401026
+r1
+xCompileXIB
+x/Users/wangwenbo/Desktop/TheWdabo/Pape.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compiling /Users/wangwenbo/Desktop/TheWdabo/Pape.xib19"CompileXIB Pape.xib768dce882efbba41^36ab668c2efbba41^---0#0#1#-19%DVTDocumentLocation2@49"file:///Users/wangwenbo/Desktop/TheWdabo/Pape.xib0000000000000000^697"CompileXIB Pape.xib    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Pape.nib /Users/wangwenbo/Desktop/TheWdabo/Pape.xib36"7A219D97-F954-4BCC-8C9C-2B1F1D6FFC53-
+bD9777936-F384-4D7E-8C83-2D4C7E369A52
+
+CCompileXIB /Users/wangwenbo/Desktop/TheWdabo/Paper.xib
+s453187671.204507
+e453187671.253621
+r1
+xCompileXIB
+x/Users/wangwenbo/Desktop/TheWdabo/Paper.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compiling /Users/wangwenbo/Desktop/TheWdabo/Paper.xib20"CompileXIB Paper.xibeb7034571803bb41^45f340571803bb41^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/wangwenbo/Desktop/TheWdabo/Paper.xib0000000000000000^700"CompileXIB Paper.xib    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Paper.nib /Users/wangwenbo/Desktop/TheWdabo/Paper.xib36"B4D9D014-852F-42C6-BF6E-8FD35A5D8733-
+b5029E39F-217D-486C-BE30-39248ED683A5
+
+CCompileXIB /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/paper.xib
+r0
+
+CCopyStringsFile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj/InfoPlist.strings TheWdabo/en.lproj/InfoPlist.strings
+s452589647.819822
+e452589647.824264
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj/InfoPlist.strings
+xTheWdabo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TheWdabo/en.lproj/InfoPlist.strings128"CopyStringsFile Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj/InfoPlist.strings TheWdabo/en.lproj/InfoPlist.stringscff5d14ff8f9ba41^5610d34ff8f9ba41^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/en.lproj/InfoPlist.strings0000000000000000^587"CopyStringsFile Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj/InfoPlist.strings TheWdabo/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/en.lproj -- TheWdabo/en.lproj/InfoPlist.strings36"4BFF57DA-4574-403F-93FF-1D2307120CB6-
+b05456FF5-D468-463C-9C00-4AB121146FC4
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo
+s453187791.275322
+e453187791.319477
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM130"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo618a46cf1803bb41^46cf51cf1803bb41^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM/0000000000000000^652"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo -o /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app.dSYM36"5CE35A92-853A-4E5B-A800-4AF246FC26E6-
+b6903C398-3936-4CDE-97E1-3CEA51EE99B5
+
+CLd /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo normal i386
+s453187790.856904
+e453187791.272262
+r1
+xLd
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/TheWdabo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperViewController.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/WritePaperViewController.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailViewController.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/MyPageViewController.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/AppDelegate.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/main.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/PaperDetailView.o
+d/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/LoginViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Link /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo73"Ld Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo normal i3861171dbce1803bb41^89b445cf1803bb41^---0#0#1#--1369"Ld Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo normal i386    cd /Users/wangwenbo/Desktop/TheWdabo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/TheWdabo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/Objects-normal/i386/TheWdabo_dependency_info.dat -o /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/TheWdabo36"24C39179-E132-4964-8509-AA3809C1637D-
+b6903C398-3936-4CDE-97E1-3CEA51EE99B5
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist
+s453185968.300023
+e453185968.303605
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist
+x/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Process /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist110"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist TheWdabo/TheWdabo-Info.plist16df4cb01103bb41^56bc4db01103bb41^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist0000000000000000^866"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist TheWdabo/TheWdabo-Info.plist    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Info.plist -genpkginfo /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app/Info.plist36"D33C98D1-52F0-418A-AFCE-39C974D5079E-
+b9C72DADF-29D0-40B6-B6AF-CF3FD1048370
+
+CProcessPCH /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch TheWdabo/TheWdabo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452589646.433046
+e452589647.097955
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch
+xTheWdabo/TheWdabo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TheWdabo/TheWdabo-Prefix.pch215"ProcessPCH Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch TheWdabo/TheWdabo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler00fd6e4ef8f9ba41^1f13194ff8f9ba41^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Prefix.pch0000000000000000^3491"ProcessPCH Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch TheWdabo/TheWdabo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/TheWdabo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-generated-files.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-own-target-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/TheWdabo-project-headers.hmap -I/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/TheWdabo.build/Debug-iphonesimulator/TheWdabo.build/DerivedSources -F/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.d -c /Users/wangwenbo/Desktop/TheWdabo/TheWdabo/TheWdabo-Prefix.pch -o /Users/wangwenbo/Desktop/TheWdabo/Build/Intermediates/PrecompiledHeaders/TheWdabo-Prefix-csscotqtnvzwnkactwovidhiscne/TheWdabo-Prefix.pch.pch36"A785220E-49B4-47C7-8689-7D17FE6F0462-
+b05456FF5-D468-463C-9C00-4AB121146FC4
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/TheWdabo-dwxcgbwhpuoqlrenfouimvopdayv/Index/PrecompiledHeaders/TheWdabo-Prefix-cprwcasdrlrikmejvzdxlhivybev_ast/TheWdabo-Prefix.pch.pch TheWdabo/TheWdabo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app
+s453187580.711510
+e453187580.720501
+r1
+xTouch
+x/Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app55"Touch Build/Products/Debug-iphonesimulator/TheWdabo.appbe4ab6fc1703bb41^d579b8fc1703bb41^---0#0#1#--398"Touch Build/Products/Debug-iphonesimulator/TheWdabo.app    cd /Users/wangwenbo/Desktop/TheWdabo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wangwenbo/Desktop/TheWdabo/Build/Products/Debug-iphonesimulator/TheWdabo.app36"A9B8C242-F93D-4BC8-A877-A99C49676192-
+bFB80BDEA-A665-4707-AD33-FC54A4E49D32
+

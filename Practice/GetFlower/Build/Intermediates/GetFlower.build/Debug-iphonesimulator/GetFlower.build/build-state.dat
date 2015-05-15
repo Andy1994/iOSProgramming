@@ -1,0 +1,364 @@
+TGetFlower
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch GetFlower/GetFlower-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj/InfoPlist.strings GetFlower/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower
+cTouch /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o
+t1431066490
+s62392
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/GetFlower.LinkFileList
+c00000000554C577900000000000001C4
+t1431066489
+s452
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o
+t1431066490
+s52272
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o
+t1431066490
+s3556
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_dependencies.txt
+t1431066493
+s397
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_generated_info.plist
+t1431066493
+s525
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch
+t1431066490
+s122144
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app
+t1431066493
+s306
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM
+t2
+s0
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Base.lproj/Main.storyboardc
+t1431066493
+s170
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower
+t1431066490
+s23044
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist
+t1431066493
+s1016
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/PkgInfo
+t1431066493
+s8
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj/InfoPlist.strings
+t1431066490
+s42
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m
+c00000000553F31CE00000000000007D8
+t1430204878
+s2008
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Base.lproj/Main.storyboard
+c00000000553F3E390000000000001F01
+t1430208057
+s7937
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist
+c00000000553F31CE00000000000004C6
+t1430204878
+s1222
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Prefix.pch
+c00000000553F31CE0000000000000158
+t1430204878
+s344
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Images.xcassets
+c00000000553F31CE0000000000000088
+t1430204878
+s136
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m
+c00000000553F3D3A0000000000000509
+t1430207802
+s1289
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/en.lproj/InfoPlist.strings
+c00000000553F31CE000000000000002D
+t1430204878
+s45
+
+N/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m
+c00000000553F31CE0000000000000152
+t1430204878
+s338
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0ea477f98efcba41^a54981f98efcba41^---0#1#1#--18"Check dependencies36"EA180A76-B363-44D9-B102-75CB953E6253-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Images.xcassets
+s452759290.691730
+e452759293.419596
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app
+x/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Assets.car
+o/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/GetFlower.app GetFlower/Images.xcassets96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/GetFlower.app GetFlower/Images.xcassets9127b1fa8efcba41^ac706bfd8efcba41^-425"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Assets.car/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@77"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Images.xcassets/0000000000000000^1179"CompileAssetCatalog Build/Products/Debug-iphonesimulator/GetFlower.app GetFlower/Images.xcassets    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Images.xcassets36"32F12A76-825C-4AFA-902A-639533118799-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CCompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452759290.146065
+e452759290.577044
+r1
+xCompileC
+xBuild/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m208"CompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o GetFlower/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler92ae25fa8efcba41^5ab993fa8efcba41^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m0000000000000000^3781"CompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o GetFlower/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.m -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o36"00757629-36A3-46A9-9E85-AEFECB002F1C-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CCompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452759290.143699
+e452759290.590084
+r1
+xCompileC
+xBuild/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o
+x/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m214"CompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o GetFlower/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera12b25fa8efcba41^bf2a97fa8efcba41^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m0000000000000000^3799"CompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o GetFlower/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.dia -c /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/ViewController.m -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o36"274C2F9F-728D-4E87-A0B9-48CCC2BE3226-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CCompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452759290.577510
+e452759290.634294
+r1
+xCompileC
+xBuild/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m194"CompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o GetFlower/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercff393fa8efcba41^a663a2fa8efcba41^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m0000000000000000^3739"CompileC Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o GetFlower/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/main.m -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o36"17D901D0-C9F8-48C2-8184-391476D77B50-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CCompileStoryboard /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Base.lproj/Main.storyboard
+s452759290.689557
+e452759293.663649
+r1
+xCompileStoryboard
+x/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Base.lproj/Main.storyboard
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard GetFlower/Base.lproj/Main.storyboard54"CompileStoryboard GetFlower/Base.lproj/Main.storyboardb2a0b0fa8efcba41^04e6a9fd8efcba41^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Base.lproj/Main.storyboard0000000000000000^860"CompileStoryboard GetFlower/Base.lproj/Main.storyboard    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Base.lproj/Main.storyboardc /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/Base.lproj/Main.storyboard36"E4A50859-5FF3-4BE2-B729-5531BAECCAEE-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CCopyStringsFile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj/InfoPlist.strings GetFlower/en.lproj/InfoPlist.strings
+s452759290.687829
+e452759290.691526
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj/InfoPlist.strings
+xGetFlower/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy GetFlower/en.lproj/InfoPlist.strings130"CopyStringsFile Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj/InfoPlist.strings GetFlower/en.lproj/InfoPlist.strings832fb0fa8efcba41^9c30b1fa8efcba41^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/en.lproj/InfoPlist.strings0000000000000000^611"CopyStringsFile Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj/InfoPlist.strings GetFlower/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/en.lproj -- GetFlower/en.lproj/InfoPlist.strings36"2E3845DA-FB9A-4EE2-ABA1-2705D9F57074-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower
+s452759293.667815
+e452759293.696866
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower4a07abfd8efcba41^3869b2fd8efcba41^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM003464dedcffdf42^688"GenerateDSYMFile Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app.dSYM36"87C629CB-E5C0-4AEA-A6E0-5A7C030934B8-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CLd /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower normal i386
+s452759290.635579
+e452759290.686446
+r1
+xLd
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/GetFlower.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/ViewController.o
+d/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/AppDelegate.o
+d/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower75"Ld Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower normal i386b0c9a2fa8efcba41^cbbaaffa8efcba41^---0#0#1#--1439"Ld Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower normal i386    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/GetFlower.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/Objects-normal/i386/GetFlower_dependency_info.dat -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/GetFlower36"27DBD58F-371B-409A-9690-71013382CB19-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist
+s452759293.664415
+e452759293.667049
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist
+x/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist113"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist GetFlower/GetFlower-Info.plist8429aafd8efcba41^4cc5aafd8efcba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist0000000000000000^925"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist GetFlower/GetFlower-Info.plist    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Info.plist -genpkginfo /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app/Info.plist36"3C219EC1-D378-49DB-BFD6-177C1B23312D-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CProcessPCH /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch GetFlower/GetFlower-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452759289.506498
+e452759290.140108
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch
+xGetFlower/GetFlower-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GetFlower/GetFlower-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch GetFlower/GetFlower-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler68cb81f98efcba41^483124fa8efcba41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Prefix.pch0000000000000000^3649"ProcessPCH Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch GetFlower/GetFlower-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/GetFlower    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/GetFlower-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/GetFlower.build/Debug-iphonesimulator/GetFlower.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.d -c /Users/wangwenbo/Desktop/Practice/GetFlower/GetFlower/GetFlower-Prefix.pch -o /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Intermediates/PrecompiledHeaders/GetFlower-Prefix-cqtqcjagdewpngdlzeebpggjcvbj/GetFlower-Prefix.pch.pch36"7DC05EAC-8AE4-42A6-8B48-D727F85CC9EB-
+bF6267371-E34B-4A6B-B28D-B69A54044D79
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/GetFlower-fsyahdxpukunaecsxrqvwhagtfhi/Index/PrecompiledHeaders/GetFlower-Prefix-fxeblycktckxheguudhfvxxqbpzr_ast/GetFlower-Prefix.pch.pch GetFlower/GetFlower-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/Practice/GetFlower/Build/Products/Debug-iphonesimulator/GetFlower.app
+r0
+

@@ -1,0 +1,678 @@
+TAnimationTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch AnimationTest/AnimationTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest normal i386
+cCopyStringsFile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj/InfoPlist.strings AnimationTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Images.xcassets
+cProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist
+cGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest
+cTouch /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000054DBA7E600000000000003B4
+t1423681510
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000054DBA7FE000000000000019E
+t1423681534
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000054DBA804000000000058E0E0
+t1423681540
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000054DBA80500000000005B82F0
+t1423681541
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000054DBA8050000000000446820
+t1423681541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000054DBA80600000000003599D0
+t1423681542
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000054DBA80800000000002FC3B0
+t1423681544
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000054DBA807000000000004B000
+t1423681543
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000054DBA809000000000088D8C0
+t1423681545
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000054DBA80F0000000000037680
+t1423681551
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000054DBA811000000000048F720
+t1423681553
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000054DBA811000000000013FD70
+t1423681553
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000054DBA8180000000001F1DE10
+t1423681560
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000054DBA84500000000002BC360
+t1423681605
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000054DBA85D0000000000002338
+t1423681629
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000054DBA860000000000008D370
+t1423681632
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000054DBA8600000000000392E20
+t1423681632
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000054DB870900000000000141F0
+t1423673097
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000054DBA8610000000000014A80
+t1423681633
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000054DBA8610000000000033BA0
+t1423681633
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000054DBA861000000000001CFB0
+t1423681633
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000054DBA861000000000001B2B0
+t1423681633
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000054DBA86100000000000C9570
+t1423681633
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000054DBA8610000000000063280
+t1423681633
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000054DBA8610000000000008880
+t1423681633
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000054DBA8610000000000015080
+t1423681633
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000054DBA86100000000000230F0
+t1423681633
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000054DBA861000000000000E380
+t1423681633
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000054DBA8610000000000089380
+t1423681633
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000054DBA8610000000000017320
+t1423681633
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000054DBA8610000000000039CD0
+t1423681633
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000054DBA861000000000000B0B0
+t1423681633
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000054DBA8620000000000167E80
+t1423681634
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000054DBA86100000000000106A0
+t1423681633
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000054DBA861000000000001CE40
+t1423681633
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000054DBA86100000000000740C0
+t1423681633
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000054DBA861000000000006CA60
+t1423681633
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000054DBA861000000000001BAD0
+t1423681633
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000054DBA8610000000000084A20
+t1423681633
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000054DBA8BD0000000000000ADC
+t1423681725
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000054DBA8BD000000000000514C
+t1423681725
+s20812
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist
+c000000005548C49800000000000004C6
+t1430832280
+s1222
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Prefix.pch
+c000000005548C4980000000000000158
+t1430832280
+s344
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.h
+c000000005548C4980000000000000119
+t1430832280
+s281
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m
+c000000005548C49800000000000007DB
+t1430832280
+s2011
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Base.lproj/Main.storyboard
+c000000005548D5320000000000000702
+t1430836530
+s1794
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Images.xcassets
+c000000005548C4980000000000000088
+t1430832280
+s136
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.h
+c000000005548D53200000000000000FD
+t1430836530
+s253
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m
+c000000005548D6A90000000000000564
+t1430836905
+s1380
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/en.lproj/InfoPlist.strings
+c000000005548C498000000000000002D
+t1430832280
+s45
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m
+c000000005548C4980000000000000155
+t1430832280
+s341
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTest.LinkFileList
+c000000005548D53200000000000001E8
+t1430836530
+s488
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o
+t1430836536
+s62416
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o
+t1430836907
+s46512
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o
+t1430836536
+s3576
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_dependencies.txt
+t1430836553
+s425
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_generated_info.plist
+t1430836553
+s525
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch
+t1430836533
+s122392
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app
+t1430836907
+s306
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM
+t1430836726
+s102
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest
+t1430836907
+s22664
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Base.lproj/Main.storyboardc
+t1430836554
+s170
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist
+t1430836554
+s1028
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/PkgInfo
+t1430836554
+s8
+
+N/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj/InfoPlist.strings
+t1430836537
+s42
+
+N/usr/lib/libSystem.B.dylib
+c0000000054DB86F0000000000000E6D0
+t1423673072
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000054DB87090000000000012A00
+t1423673097
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000054DB86D8000000000002E320
+t1423673048
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000054DB86F00000000000021860
+t1423673072
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000054DB8707000000000001B620
+t1423673095
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000054DB870700000000000BD920
+t1423673095
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000054DB8708000000000000A120
+t1423673096
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000054DB8708000000000001D550
+t1423673096
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000054DB87070000000000014EE0
+t1423673095
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000054DB870B0000000000010380
+t1423673099
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000054DB870B000000000000C4C0
+t1423673099
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000054DB870900000000000357A0
+t1423673097
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000054DB8709000000000000C070
+t1423673097
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000054DB86F00000000000168D00
+t1423673072
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000054DB87070000000000010630
+t1423673095
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000054DB870A000000000001DF10
+t1423673098
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000054DB86F00000000000075B00
+t1423673072
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000054DB86F0000000000007CD60
+t1423673072
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000054DB86F000000000000766C0
+t1423673072
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000054DB87090000000000044DC0
+t1423673097
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000054DB86F00000000000021FA0
+t1423673072
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000054DB8709000000000002D920
+t1423673097
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000054DB8709000000000001E570
+t1423673097
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000054DB86FA000000000000CC70
+t1423673082
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000054DB86FF000000000000C3F0
+t1423673087
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000054DB870900000000000199F0
+t1423673097
+s104944
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m
+r0
+
+CBuild AST from /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies48a52c2b0ef9ba41^ed822d2b0ef9ba41^---0#1#1#--18"Check dependencies36"09E460C6-3358-4517-97FA-151021085744-
+
+CCompileAssetCatalog /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Images.xcassets
+s452529337.433569
+e452529353.621414
+r1
+xCompileAssetCatalog
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/LaunchImage-700-568h@2x.png
+o/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Assets.car
+o/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AnimationTest.app AnimationTest/Images.xcassets104"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AnimationTest.app AnimationTest/Images.xcassetsec146fb90cf9ba41^32059fc90cf9ba41^-453"/* com.apple.actool.compilation-results *//Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/LaunchImage-700-568h@2x.png/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Assets.car/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Images.xcassets/0000000000000000^1231"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AnimationTest.app AnimationTest/Images.xcassets    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Images.xcassets36"1C035859-6AE3-43C3-9EC5-E14E7BFF1805-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CCompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452529333.385386
+e452529336.606578
+r1
+xCompileC
+xBuild/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m220"CompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o AnimationTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ad562b50cf9ba41^f5489bb80cf9ba41^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m0000000000000000^3949"CompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o AnimationTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.m -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o36"AE0D5DAC-F863-4495-8D68-7F89030A875A-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CCompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452529707.178486
+e452529707.531103
+r1
+xCompileC
+xBuild/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m226"CompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o AnimationTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler96d02d2b0ef9ba41^0ef9872b0ef9ba41^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m0000000000000000^3967"CompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o AnimationTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.dia -c /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/ViewController.m -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o36"AF92E750-2D30-42B9-982C-3E179F83EC95-
+bB5ACC7B4-D2D8-4B88-A110-72DD979F7DDD
+
+CCompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452529336.607042
+e452529336.710407
+r1
+xCompileC
+xBuild/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m206"CompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o AnimationTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8909bb80cf9ba41^33dfb5b80cf9ba41^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m0000000000000000^3907"CompileC Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o AnimationTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator -include /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.dia -c /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/main.m -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o36"251569B7-14FA-4A37-BDFE-177D5CAE425E-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CCompileStoryboard /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Base.lproj/Main.storyboard
+s452529337.427615
+e452529354.725268
+r1
+xCompileStoryboard
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard AnimationTest/Base.lproj/Main.storyboard58"CompileStoryboard AnimationTest/Base.lproj/Main.storyboardc98e6db90cf9ba41^e6aeb9ca0cf9ba41^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Base.lproj/Main.storyboard0000000000000000^884"CompileStoryboard AnimationTest/Base.lproj/Main.storyboard    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Base.lproj/Main.storyboardc /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/Base.lproj/Main.storyboard36"80E58D62-4C7B-482E-AEC5-7E5044EE5B5D-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CCopyStringsFile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj/InfoPlist.strings AnimationTest/en.lproj/InfoPlist.strings
+s452529337.425848
+e452529337.433255
+r1
+xCopyStringsFile
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj/InfoPlist.strings
+xAnimationTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy AnimationTest/en.lproj/InfoPlist.strings138"CopyStringsFile Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj/InfoPlist.strings AnimationTest/en.lproj/InfoPlist.strings79406db90cf9ba41^774e6fb90cf9ba41^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/en.lproj/InfoPlist.strings0000000000000000^635"CopyStringsFile Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj/InfoPlist.strings AnimationTest/en.lproj/InfoPlist.strings    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/en.lproj -- AnimationTest/en.lproj/InfoPlist.strings36"F6FBA7BB-6BEA-45DE-9A70-5519325ABF0C-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CGenerateDSYMFile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest
+s452529707.582573
+e452529707.606092
+r1
+xGenerateDSYMFile
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM145"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTestbd34952b0ef9ba41^5b419b2b0ef9ba41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM/0000000000000000^724"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app.dSYM36"EF9DAF3D-7FBA-4E75-A926-F099158555DE-
+bB5ACC7B4-D2D8-4B88-A110-72DD979F7DDD
+
+CLd /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest normal i386
+s452529707.533530
+e452529707.580222
+r1
+xLd
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest
+xnormal
+xi386
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/ViewController.o
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AppDelegate.o
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest83"Ld Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest normal i386f8a7882b0ef9ba41^ca8b942b0ef9ba41^---0#0#1#--1525"Ld Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest normal i386    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator -F/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator -filelist /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework QuartzCore -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTest_dependency_info.dat -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/AnimationTest36"F145AB52-42DC-43A5-8E65-601545C05A5B-
+bB5ACC7B4-D2D8-4B88-A110-72DD979F7DDD
+
+CProcessInfoPlistFile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist
+s452529354.726189
+e452529354.729748
+r1
+xProcessInfoPlistFile
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist125"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist AnimationTest/AnimationTest-Info.plist9b01baca0cf9ba41^afd1baca0cf9ba41^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist0000000000000000^981"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist AnimationTest/AnimationTest-Info.plist    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Info.plist -genpkginfo /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/assetcatalog_generated_info.plist -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app/Info.plist36"AA1DF29C-50D1-4A73-BEC2-C1A47400B180-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CProcessPCH /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch AnimationTest/AnimationTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s452529330.954850
+e452529333.383652
+r1
+xProcessPCH
+x/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch
+xAnimationTest/AnimationTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile AnimationTest/AnimationTest-Prefix.pch235"ProcessPCH Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch AnimationTest/AnimationTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b14fdb20cf9ba41^1d3962b50cf9ba41^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Prefix.pch0000000000000000^3813"ProcessPCH Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch AnimationTest/AnimationTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wangwenbo/Desktop/Practice/AnimationTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wangwenbo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-generated-files.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-own-target-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-all-target-headers.hmap -iquote /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/AnimationTest-project-headers.hmap -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources/i386 -I/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/AnimationTest.build/Debug-iphonesimulator/AnimationTest.build/DerivedSources -F/Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.d -c /Users/wangwenbo/Desktop/Practice/AnimationTest/AnimationTest/AnimationTest-Prefix.pch -o /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Intermediates/PrecompiledHeaders/AnimationTest-Prefix-asalvlojtodokghewviurzecyyea/AnimationTest-Prefix.pch.pch36"519A17B1-79AD-4A84-8DDA-9B9C27C3EAA4-
+bE2023896-5A99-4B11-983F-567D6AFBC937
+
+CProcessPCH /Users/wangwenbo/Library/Developer/Xcode/DerivedData/AnimationTest-aecgpufodqjreyeacbsshsanelks/Index/PrecompiledHeaders/AnimationTest-Prefix-aboppfzjoqzqoeauincvpwerruui_ast/AnimationTest-Prefix.pch.pch AnimationTest/AnimationTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wangwenbo/Desktop/Practice/AnimationTest/Build/Products/Debug-iphonesimulator/AnimationTest.app
+r0
+

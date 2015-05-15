@@ -1,0 +1,46 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 814,
+          "top" : 145,
+          "right" : 347,
+          "left" : 292
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "loginbg.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 795,
+          "top" : 164,
+          "right" : 320,
+          "left" : 319
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "loginbg@2X.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
